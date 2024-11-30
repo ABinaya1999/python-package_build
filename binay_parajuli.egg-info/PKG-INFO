@@ -1,3 +1,11 @@
+Metadata-Version: 2.1
+Name: binay_parajuli
+Version: 1.1.1
+Author: Binay Raj Parajuli
+Author-email: binayaparajuli17@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
 # Building and uploading python package in PyPI
 
 Install -> setupttools, twine and wheel
@@ -11,6 +19,6 @@ which returns binay_parajuli.egg-info , build and dist folders
 3.Upload using twine upload dist/*
 
 
-View at: https://pypi.org/project/binay-parajuli/1.1.1/
+View at: https://pypi.org/project/binay-parajuli/0.0.1/
 
 
